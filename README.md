@@ -33,7 +33,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🎯 [Job Tracker](https://github.com/Ahmed-waled/job-tracker) | Full-stack platform to simulate job interviews and record answers |
+| 🎯 [Job Tracker](https://github.com/Ahmed-waled/GP-backend) | Full-stack platform to simulate job interviews and record answers |
 | 🛠️ [Tiny_Compiler](https://github.com/Ahmed-waled/Tiny_Compiler) | Full compiler for a custom-made language: TINY |
 | 🏨 [Hotel Management System](https://github.com/Ahmed-waled/HotelMangmentSoftware) | Booking system enabling both users and hotel admins to book/add/delete rooms |
 
